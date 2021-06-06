@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @asdrubaljj
 - 🌱 I’m currently studying computer engineering. 
 - I've done an Hello-World! in (SQL C Java Bash Assembly Go) 
-- That's it
+- That's it.
 
 
 <!---
