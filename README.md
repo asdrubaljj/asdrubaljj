@@ -1,6 +1,7 @@
 - Hi, I’m @asdrubaljj
-- I’m currently studying computer engineering. 
-- I've done an Hello-World! in (C Java Bash Assembly Go) 
+- Computer Engineering graduate. 
+- My favourite languages (Bash, C, R, Python, Go)
+- Currently working on Godot.
 - **That's it**.
 
 
